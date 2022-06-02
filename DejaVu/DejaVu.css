@@ -13,6 +13,7 @@
 }
 @font-face {
     font-family: 'DejaVu';
+    font-style: italic;
     src:
     url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-Oblique.woff) format('woff'),
     url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-Oblique.woff2) format('woff2');
@@ -20,6 +21,7 @@
 @font-face {
     font-family: 'DejaVu';
     font-weight: bold;
+    font-style: italic;
     src:
     url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-BoldOblique.woff) format('woff'),
     url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-BoldOblique.woff2) format('woff2');
