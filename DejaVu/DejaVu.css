@@ -1,26 +1,26 @@
-@font-face{
-    font-family: DejaVu;
+@font-face {
+    font-family: 'DejaVu';
     src:
-    url(./DejaVuSans.woff) format('woff')
-    url(./DejaVuSans.woff2) format('woff2');
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans.woff) format('woff'),
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans.woff2) format('woff2');
 }
-@font-face{
-    font-family: DejaVu;
+@font-face {
+    font-family: 'DejaVu';
     font-weight: bold;
     src:
-    url(./DejaVuSans-Bold.woff) format('woff')
-    url(./DejaVuSans-Bold.woff2) format('woff2')
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-Bold.woff) format('woff'),
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-Bold.woff2) format('woff2');
 }
-@font-face{
-    font-family: DejaVu;
+@font-face {
+    font-family: 'DejaVu';
     src:
-    url(./DejaVuSans-Oblique.woff) format('woff')
-    url(./DejaVuSans-Oblique.woff2) format('woff2');
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-Oblique.woff) format('woff'),
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-Oblique.woff2) format('woff2');
 }
-@font-face{
-    font-family: DejaVu;
+@font-face {
+    font-family: 'DejaVu';
     font-weight: bold;
     src:
-    url(./DejaVuSans-BoldOblique.woff) format('woff')
-    url(./DejaVuSans-BoldOblique.woff2) format('woff2')
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-BoldOblique.woff) format('woff'),
+    url(https://raw.githubusercontent.com/Tumultur/fonts/main/DejaVu/DejaVuSans-BoldOblique.woff2) format('woff2');
 }
